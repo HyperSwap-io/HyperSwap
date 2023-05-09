@@ -1,0 +1,17 @@
+artifacts/
+cache/
+cache_hardhat/
+coverage/
+coverage.json
+dist/
+node_modules/
+src/types/
+src/deploy/output
+test/outputs/
+*.swp
+.yarn/install-state.gz
+.vscode/
+bin/
+out/
+lib/v2-core
+lib/v2-periphery
