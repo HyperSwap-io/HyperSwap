@@ -3,6 +3,8 @@
 
 A permissionless cross-chain AMM based on UniswapV2 and [Hyperlane](https://hyperlane.xyz/).
 
+## Video Demonstration
+https://clipchamp.com/watch/CAQPBny87dI
 ## Components
 
 ### HyperswapBridgeRouter
